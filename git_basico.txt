@@ -1,0 +1,6 @@
+Primero creo el reprositorio en GitHub y luego quiero trabajar en local
+a.Crear el proyecto en GitHub
+b.Ir a local: git clone <url>  //giot clone https://github.com/usuario/proyecto.git
+c. git add <nombre>  //git add index.html
+d. git commit -m "Mensaje"
+e. git push origin master
